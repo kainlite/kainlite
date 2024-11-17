@@ -12,7 +12,7 @@
 
 👋 Hello,
 
-I’m a [Freelance Cloud Engineer](https://www.linkedin.com/in/gabrielgarrido/) specialized in building, fast, reliable, and cost-efficient solutions on AWS, Kubernetes and Linux designed for scale.
+I’m a [Freelance DevOps Engineer and SRE](https://www.linkedin.com/in/gabrielgarrido/) specialized in building, fast, reliable, and cost-efficient solutions on AWS, Kubernetes and Linux designed for scale.
 
 > [!TIP]
 > Do you need help to migrate to the AWS? fear not, I can help you migrate to Docker, Kubernetes, AWS, and help you scale your online business.
