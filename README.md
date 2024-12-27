@@ -12,7 +12,7 @@
 
 👋 Hello,
 
-I’m a [DevOps Engineer and SRE](https://www.linkedin.com/in/gabrielgarrido/) specialized in building, fast, reliable, and cost-efficient solutions on AWS, Kubernetes and Linux designed for scale, follow me on LinkedIn to learn about these topics.
+I’m a [Systems engineer](https://www.linkedin.com/in/gabrielgarrido/) with practical experience in DevOps Engineer and SRE specialized in building, fast, reliable, and cost-efficient solutions on AWS, Kubernetes and Linux designed for scale, follow me on LinkedIn to learn about these topics.
 
 ### 🖥 Skills
 
