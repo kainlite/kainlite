@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgarrido/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kainlite@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://techsquad.rocks)](https://techsquad.rocks)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://segfault.pw)](https://segfault.pw)
 [![Github](https://img.shields.io/github/followers/kainlite?label=Follow&style=social)](https://github.com/kainlite)
 
 - 💻 [**segfault.pw**](https://segfault.pw) My Blog ([source](https://github.com/kainlite/tr)).
